@@ -1,0 +1,7 @@
+{
+  "name": "qweerty app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
